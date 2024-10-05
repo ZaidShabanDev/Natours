@@ -16,3 +16,5 @@ dist/
 # Ignore specific file
 path/to/file.txt
 package-lock.json
+css/*.map
+
