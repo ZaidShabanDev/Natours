@@ -1,0 +1,18 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore build artifacts (for example, in Angular)
+dist/
+
+# Ignore any file with `.local` in its name
+*.local
+
+# Ignore specific file
+path/to/file.txt
+package-lock.json
